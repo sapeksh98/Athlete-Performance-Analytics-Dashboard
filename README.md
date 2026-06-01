@@ -37,3 +37,5 @@ Athlete Profile Dashboard:
 -Medal Timeline
 -Athlete Demographics
 -Performance Summary
+
+LINK : https://app.powerbi.com/groups/me/reports/77d5b3d6-280f-4c5c-81ad-10b063553801/b8793a717076c3a70bd2?experience=power-bi
